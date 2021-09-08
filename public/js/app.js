@@ -1,6 +1,3 @@
-console.log("client side js served up")
-
-
 
 const weatherForm=document.querySelector('form')
 const searchElement=document.querySelector('input')
